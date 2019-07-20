@@ -15,7 +15,7 @@ dingtalk:
 
 # 远端控制服务
 remote_control_service:
-  enable: true
+  enable: false
   passwd: "123456"     # Web端密码
   api_token: "9DSU9987jK"  # a-zA-z0-9  不b要使用符号
 
@@ -48,7 +48,7 @@ aliyun:
     service_name: "kim_project"
 
 hass:    # 配置 HA
-  enable: true
+  enable: false
   connection:
     ip: 127.0.0.1
     passwd: kim-project-a8df78a9df

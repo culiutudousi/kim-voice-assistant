@@ -52,10 +52,15 @@ coverage.xml
 
 # 压缩包
 *.zip
+
 # 音频文件
 *.pcm
 *.mp3K
 data/cache/wave/*.wav
+
+# 设置文件
+setting.yaml
+custome_settings/
 
 # Coverage reports for a specific version
 .coverage
