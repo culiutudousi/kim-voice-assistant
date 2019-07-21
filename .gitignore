@@ -61,6 +61,8 @@ data/cache/wave/*.wav
 # 设置文件
 setting.yaml
 custome_settings/
+hotword
+plugin
 
 # Coverage reports for a specific version
 .coverage

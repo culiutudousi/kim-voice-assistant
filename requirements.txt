@@ -4,7 +4,7 @@ aliyun-fc2>2.0.2
 aliyun-python-sdk-chatbot>1.0.0
 aliyun-python-sdk-core>2.3.5
 aliyun-python-sdk-core-v3==2.5.5
-aliyun-python-sdk-iot>5.0.1
+aliyun-python-sdk-iot==5.0.1
 android-backup==0.1.0
 appdirs==1.4.3
 appnope==0.1.0
